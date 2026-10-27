@@ -52,6 +52,9 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 - [Quinvio AI](https://www.quinv.io/ai) - Quinv is an AI-powered software platform that helps businesses automate their back-office operations, streamline processes, and improve decision-making through advanced analytics and data visualization. [FREE/PAID]
 - [RunwayML Gen2](https://research.runwayml.com/gen2) - RunwayML Gen2 is an AI-powered creative tool that enables artists and designers to create, train, and deploy machine learning models without requiring extensive coding knowledge. [FREE/PAID]
 - [D-ID](https://studio.d-id.com/) - D-ID is an AI-powered solution that helps businesses protect their customers' privacy by anonymizing facial images and videos using deep learning algorithms. [FREE/PAID]
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI: one photo → 13s 480p 21:9 solo dance (Paid from $7.99). Not affiliated with Riot Games or K/DA
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99)
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99)
 
 ## Audio
 
